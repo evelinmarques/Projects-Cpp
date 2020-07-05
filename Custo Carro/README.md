@@ -1,7 +1,7 @@
 # Custo do Carro
 
 ### Diretiva do projeto:
-Desenvolver um algoritmo para ler o custo de fábrica de um carro,
+Desenvolver um programa para ler o custo de fábrica de um carro,
 calcular e escrever o custo final ao consumidor.
 
 ### A regra para o cálculo se dá da seguinte forma :
