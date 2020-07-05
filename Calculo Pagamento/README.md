@@ -1,7 +1,7 @@
 # Cálculo pagamento
 
 ### Diretiva do projeto:
-Desenvolver um algoritmo que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento.
+Desenvolver um programa que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento.
 
 ### Condição de pagamento 
 * 1 - À vista em dinheiro ou cheque, recebe 10% de desconto 
