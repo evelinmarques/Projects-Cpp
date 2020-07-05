@@ -1,7 +1,7 @@
 # Números primos
 
 ### Diretiva do projeto:
-Desenvolver um algoritmo para mostrar os números primos existentes num 
+Desenvolver um programa para mostrar os números primos existentes num 
 intervalo informado pelo usuário.
 
 
