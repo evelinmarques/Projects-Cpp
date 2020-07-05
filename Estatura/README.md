@@ -1,7 +1,7 @@
 # Cálculo de estatura
 
 ### Diretiva do projeto:
-Desenvolver um algoritmo que calcule e imprima quantos anos serão
+Desenvolver um programa que calcule e imprima quantos anos serão
 necessários para que João seja maior que Carlos.
 
 ### A regra para o cálculo se dá da seguinte forma :
